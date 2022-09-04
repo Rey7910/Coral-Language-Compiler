@@ -1,10 +1,7 @@
 /*
 ***
- REINALDO TOLEDO LEGUIZAMÓN       *
- LENGUAJES DE PROGRAMACIÓN        *
- UNIVERSIDAD NACIONAL DE COLOMBIA *
- ANALIZADOR LÉXICO -> CORAL       *
- 2022-2                           *
+ REY 7910                         *
+ LEXICAL ANALYZER                 *  
                                   *
 ***
 */
