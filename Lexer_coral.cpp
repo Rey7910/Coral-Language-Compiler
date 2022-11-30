@@ -1,7 +1,7 @@
 /*
 ***
  REY 7910                         *
- LEXICAL ANALYZER                 *  
+ LEXER FOR CORAL                  *  
                                   *
 ***
 */
