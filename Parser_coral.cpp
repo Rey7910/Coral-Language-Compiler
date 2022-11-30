@@ -1,10 +1,7 @@
 /*
 ***
  REy 7910                         *
- LENGUAJES DE PROGRAMACIÓN        *
- UNIVERSIDAD NACIONAL DE COLOMBIA *
- ANALIZADOR SINTÁCTICO -> CORAL   *
- 2022-2                           *
+ LEXER FOR CORAL                  *
                                   *
 ***
 */
