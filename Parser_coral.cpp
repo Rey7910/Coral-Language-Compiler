@@ -117,7 +117,7 @@ int bars = 0;
 
 string current_rule = "0";
 
-// HERE CAN WE FIND THE GRAMATIC USED FOR THE PARSER DEVELOP
+// HERE CAN WE FIND THE GRAMMAR RULES USED FOR THE PARSER DEVELOP
 
 // F
 string F[] = {"Function","id","tkn_opening_par","DECS","tkn_closing_par","returns","nothing","ALLF"};
