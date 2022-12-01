@@ -1,7 +1,7 @@
 /*
 ***
  REY 7910                         *
- LEXER FOR CORAL                  *
+ CORAL LEXER                      *
                                   *
 ***
 */
