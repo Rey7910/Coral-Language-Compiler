@@ -1,7 +1,7 @@
 /*
 ***
  REY 7910                         *
- CORAL LEXER                      *
+ CORAL PARSER                      *
                                   *
 ***
 */
